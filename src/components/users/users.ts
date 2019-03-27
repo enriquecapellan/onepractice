@@ -3,5 +3,5 @@ import Component from 'vue-class-component'
 
 @Component
 export default class Usres extends Vue {
-    dialog: boolean = true;
+    dialog: boolean = false;
 }
